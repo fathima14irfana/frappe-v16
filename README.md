@@ -7,7 +7,7 @@ Follow these steps to run ERPNext + Frappe V16 in a GitHub Codespace:
 
 1. **Open Codespace**
    - Open a Codespace for this repository (use the **main** branch).
-   ![Codespace](./docs/codespace.png)
+   ![Codespace](./docs/codespace-image.png)
 
 2. **Wait for Setup**
    - Wait a few minutes for Docker images to be pulled and containers to start.
